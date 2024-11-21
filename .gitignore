@@ -1,0 +1,6 @@
+dataset/
+embeddings/
+models/
+checkpoint/
+myvenv/
+__pycache__/
